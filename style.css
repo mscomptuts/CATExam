@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+
+.container{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.bg-image{
+	width: 100%;
+	height: 203px;
+	background: url('CAT.jpg') no-repeat;
+	background-size: contain;
+}
